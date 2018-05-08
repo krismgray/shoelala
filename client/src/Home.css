@@ -1,0 +1,18 @@
+.topmenu {
+
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-family: 'Shadows Into Light Two';
+  color: black;
+}
+
+.myshoes {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 10px;
+  padding-right: 10px;
+}
